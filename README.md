@@ -21,9 +21,7 @@
 -	You can use any method to identify the elements you interact with.
 
 ## Your mission:
--	Automate some operations on the following Selenium practice website: http://automationpractice.com/index.php as described below in Part 1 and Part 2
-
-What you need to automate (part 1 & 2 should be seperate NUnit Test case) please use an appropriate test name for each test.
+Automate some operations on the following Selenium practice website: http://automationpractice.com/index.php as described below. What you need to automate (should be seperate NUnit Test cases) please use an appropriate test name for each test.
 
 ### Test Case 1
 Automate User Registration Process
