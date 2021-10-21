@@ -44,5 +44,5 @@ Steps to Automate:
 4. Leave the mandatory fields (marked with *) blank and click Register button.
 5. Verify that error has been displayed for the mandatory fields.
 
-# What to do when you are done>
+# What to do when you are done
 - Push your changes to Github and create a Pull Request for your tests
