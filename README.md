@@ -11,7 +11,7 @@
 ### Your Project setup:
 -	The project needs to be completed using the prescribed tools and coding language C#.
 -	You will need to clone the repository to your local machine.
--	Create a new brach with an appropriate name to develop your tests
+-	Create a new branch with an appropriate name to develop your tests
 -	Open the project using Visual Studio and ensure the below are installed to the project
      -	[ ] Selenium WebDriver (installed via Nuget package manager into your project)
      -	[ ] Selenium WebDriver ChromeDriver (installed via Nuget package manager into your project)
