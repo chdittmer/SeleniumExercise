@@ -4,5 +4,6 @@ namespace Porcupine.SeleniumAssessment
 {
     public class AutomationPracticeTests
     {
+        //Test
     }
 }
