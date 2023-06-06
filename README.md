@@ -28,7 +28,7 @@ Automate some operations on the following Selenium practice website: https://www
 ### Test Case 1
 Log In
 Steps to Automate:
-1. Open this url  https://www.saucedemo.com/
+1. Open this url https://www.saucedemo.com/
 2. Select a username from the list of accepted usernames
 3. Enter that into the Username field
 4. Enter the password in the Password field
@@ -38,7 +38,7 @@ Steps to Automate:
 ### Test Case 2
 Purchase a product
 Steps to Automate:
-1. Open this url  http://automationpractice.com/index.php
+1. Open this url https://www.saucedemo.com/
 2. Sign into the web site
 3. Select any product and click the "Add to cart" button for that product
 4. Click the shopping cart button
