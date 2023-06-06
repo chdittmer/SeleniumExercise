@@ -23,12 +23,12 @@
 > - Hint: You can use any method to identify the elements you interact with.
 
 ## Your mission:
-Automate some operations on the following Selenium practice website: https://www.saucedemo.com/inventory.html as described below. You have two objectives, please create a seperate test for each and use an appropriate test name for each test.
+Automate some operations on the following Selenium practice website: https://www.saucedemo.com/ as described below. You have two objectives, please create a seperate test for each and use an appropriate test name for each test.
 
 ### Test Case 1
 Log In
 Steps to Automate:
-1. Open this url  https://www.saucedemo.com/inventory.html
+1. Open this url  https://www.saucedemo.com/
 2. Select a username from the list of accepted usernames
 3. Enter that into the Username field
 4. Enter the password in the Password field
