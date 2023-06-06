@@ -23,27 +23,33 @@
 > - Hint: You can use any method to identify the elements you interact with.
 
 ## Your mission:
-Automate some operations on the following Selenium practice website: http://automationpractice.com/index.php as described below. What you need to automate (should be seperate NUnit Test cases) please use an appropriate test name for each test.
+Automate some operations on the following Selenium practice website: https://www.saucedemo.com/inventory.html as described below. You have two objectives, please create a seperate test for each and use an appropriate test name for each test.
 
 ### Test Case 1
-Automate User Registration Process
+Log In
 Steps to Automate:
-1. Open this url  http://automationpractice.com/index.php
-2. Click on sign in link.
-3. Enter a unique email address in 'Create and account' section.
-4. Click on Create an Account button.
-5. Enter your Personal Information, Address and Contact info.
-6. Click on Register button.
-7. Validate that user is created.
+1. Open this url  https://www.saucedemo.com/inventory.html
+2. Select a username from the list of accepted usernames
+3. Enter that into the Username field
+4. Enter the password in the Password field
+5. Click the login button
+6. Verify that the user has been logged in successfully
 
 ### Test Case 2
-Verify error messages for mandatory fields.
+Purchase a product
 Steps to Automate:
 1. Open this url  http://automationpractice.com/index.php
-2. Click on sign in link.
-3. Enter email address and click Register button.
-4. Leave the mandatory fields (marked with *) blank and click Register button.
-5. Verify that error has been displayed for the mandatory fields.
+2. Sign into the web site
+3. Select any product and click the "Add to cart" button for that product
+4. Click the shopping cart button
+5. Verify the product you selected has been added to the cart
+6. Checkout
+7. Enter a Firstname, Lastname and Zip Code into the fields
+8. Click Continue
+9. Verify that the correct product is still in the cart
+10. Click Finish
+11. Verify that the confirmation message is displayed
+
 
 # What to do when you are done
 - Push your changes to Github and create a Pull Request for your tests
