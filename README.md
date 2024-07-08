@@ -4,7 +4,7 @@
 -	An internet connection
 -	Google Chrome
 -	Visual Studio Community Edition (Free) https://visualstudio.microsoft.com/vs/community/
-- .Net 5 SDK will need to be installed on your machine
+- .Net 6 SDK will need to be installed on your machine
 - A Github account
 - Git client (feel free to use your favourite)
 
